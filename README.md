@@ -5,4 +5,4 @@ Splitting data, using Linear Regression model, bootstrapping, finding probabilit
 
 
 On GitHub:
-https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB.git
+https://github.com/Script-Whiz/Sprint9_OG_Mining_MLB/blob/main/notebooks/OG_mining_ver5_final.ipynb
